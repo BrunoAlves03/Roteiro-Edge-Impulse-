@@ -81,7 +81,7 @@ objetos.
 
 
 <p>O conjunto de dados que usaremos será imagens de Raio-X de pulmões
-saudáveis e pulmões com tuberculose do site.
+saudáveis e pulmões com tuberculose do site
 
 <a href="https://www.kaggle.com/">Kaggle</a> que disponibiliza
 gratuitamente o uso dos datasets feitos pela própria comunidade por isso
